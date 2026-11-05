@@ -1,4 +1,4 @@
-import ArticleList from "../components/ArticleList/ArticleList";
+import Article from "../components/ArticleList/Article";
 function ArticleList({ posts }) {
     return (
         <main>
